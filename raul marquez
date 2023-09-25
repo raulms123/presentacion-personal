@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Personal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: left;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #313131;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mi Pagina Personal</h1>
+    <p>Mi usuario de Ipasen Rmarsan2004</p>
+
+    <h2>¿De dónde eres? </h2>
+    <p>Soy de castilleja de la cuesta,un pueblo de Sevilla</p>
+
+    <h2>¿Qué te motivó a elegir el curso de Desarrollo de Aplicaciones Web?</h2>
+    <p>Principalmente vi a mi hermano que se dedica al mundo del desarrollo de aplicaciones y me llamo la antencion,ademas nunca tuve un futuro claro y la informatica fue lo que mas me interesaba.</p>
+
+    <h2>¿Qué esperas aprender en este curso?</h2>
+    <p>Me gustaria salir con una comodidad en el mundo de la progracion y convertirlo en un hobbit.</p>
+
+    <h2>¿Tienes alguna experiencia previa en programación o diseño web?</h2>
+    <p>No,jamas trabaje de ello.</p>
+
+    <h2>¿Cuáles son tus aficiones o pasatiempos favoritos?</h2>
+    <p>Especialmente me gusta desahogarme en el gimnasio y pasar mucho tiempo con mi novia.</p>
+
+    <h2>¿Dónde te ves en 5 años?</h2>
+    <p>Pues es dificil saberlo pero espero que haya terminado el grado y haberme formado con el master de inteligencia arificial que me llama la antencio.</p>
+
+    <h2>¿Algún dato curioso o algo que quieras compartir con la clase?</h2>
+    <p>Me como las lentejas en pure porque me dan fatiga enteras.</p>
+</body>
+</html>
